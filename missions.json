@@ -1,5 +1,6 @@
 {
-  "_about": "미션 목록 초안 (2026-10-23 유저 \"한 200개는 있어야하지않아?\"). check=self 는 스스로 체크, steps 는 CMPedometer 자동 측정. 의료와 감정 상태를 단정하는 말은 쓰지 않는다. 2026-10-24 유저 \"10분 낮잠 얼굴 마사지 이런건빼 왜냐면 이거 안해도되는거잖아\", \"가벼운 운동이나 바깥공기 쪽 좋은거같은데 좀 추가\" 로 안 해도 되는 것 18개를 빼고 가벼운 운동 10개, 바깥 걷기 8개를 넣음. 2026-10-24 살림 25개를 넣었다가 뺌(유저 \"살림분류 퀘스트는 그냥 게임으로 할 수 있는거야 진짜가아니라\"). 살림은 게임 안 활동으로 만든다. 2026-10-25 유저 \"설거지 다섯개만하기는 뭐야 장난하냐\", \"야채먹기, 배달 시키지 않고 요리하기 이런것도 넣고 이상한거 빼 중복되도 안되고\" 로 사소하거나 어색한 것과 겹치는 것 20개를 빼고, 화장실과 부엌 청소, 걸레질 같은 진짜 살림과 식사 미션 10개를 넣고 7개 문구를 고침. 같은 날 겹침 정리: 화장실 청소와 겹치는 욕실 물기 닦기, 부엌 청소와 겹치는 싱크대와 가스레인지 닦기, 직접 요리와 겹치는 라면 대신 밥, 과자 대신 과일과 겹치는 과일 하나 먹기를 빼고 냉장고 정리는 창틀 먼지 닦기로 바꿈. 2026-10-25 유저 \"가볍게 움직이기에서 이상한건 없애 너무 어려운거\" 로 근력 운동과 어색한 것 9개를 뺌. 2026-10-25 유저 \"사람 만나기 이런건 빼 그리고 니가 말한거 다 빼\" 로 번아웃 온 사람에게 귀찮거나 어려운 23개와 사람과 연결 분류 전체(10개)를 뺌.",
+  "_about": "미션 목록 초안 (2026-10-23 유저 \"한 200개는 있어야하지않아?\"). check=self 는 스스로 체크, steps 는 CMPedometer 자동 측정. 의료와 감정 상태를 단정하는 말은 쓰지 않는다. 2026-10-24 유저 \"10분 낮잠 얼굴 마사지 이런건빼 왜냐면 이거 안해도되는거잖아\", \"가벼운 운동이나 바깥공기 쪽 좋은거같은데 좀 추가\" 로 안 해도 되는 것 18개를 빼고 가벼운 운동 10개, 바깥 걷기 8개를 넣음. 2026-10-24 살림 25개를 넣었다가 뺌(유저 \"살림분류 퀘스트는 그냥 게임으로 할 수 있는거야 진짜가아니라\"). 살림은 게임 안 활동으로 만든다. 2026-10-25 유저 \"설거지 다섯개만하기는 뭐야 장난하냐\", \"야채먹기, 배달 시키지 않고 요리하기 이런것도 넣고 이상한거 빼 중복되도 안되고\" 로 사소하거나 어색한 것과 겹치는 것 20개를 빼고, 화장실과 부엌 청소, 걸레질 같은 진짜 살림과 식사 미션 10개를 넣고 7개 문구를 고침. 같은 날 겹침 정리: 화장실 청소와 겹치는 욕실 물기 닦기, 부엌 청소와 겹치는 싱크대와 가스레인지 닦기, 직접 요리와 겹치는 라면 대신 밥, 과자 대신 과일과 겹치는 과일 하나 먹기를 빼고 냉장고 정리는 창틀 먼지 닦기로 바꿈. 2026-10-25 유저 \"가볍게 움직이기에서 이상한건 없애 너무 어려운거\" 로 근력 운동과 어색한 것 9개를 뺌. 2026-10-25 유저 \"사람 만나기 이런건 빼 그리고 니가 말한거 다 빼\" 로 번아웃 온 사람에게 귀찮거나 어려운 23개와 사람과 연결 분류 전체(10개)를 뺌. 2026-11-21 우울감, 번아웃 자가 관리 근거(NIMH, WHO, NHS: 규칙적 기상, 아침 햇빛, 나에게 너그럽게)로 아침 1분짜리 8개를 더함(기상 리듬 body-33~35, 햇빛 outside-30~31, 나에게 너그럽게 mind-25~27). 지원님 \"최대한 사람 연결은 안하려고는함\" 으로 사람과 연결 퀘스트는 넣지 않음. 잠드는 시각 정하기와 알람 한 번에 일어나기는 10-25 반려(번아웃에게 어려운 것, 잠드는 시간)와 같은 축이라, 창가 1분 서 있기는 outside-01, 03 과 겹치고 10-25 어색하다고 뺀 1분 서 있기와 같아 뺌. 무료 50개는 그대로라 새 8개는 전체 열기 묶음. 2026-11-21 지원님 \"500걸음 너무 적어 기보 1,000걸음으로하자 그리고 5분 이런거말고 햇빛보기 이런걸로해 모든거잘봐봐\" 로 걸음 퀘스트 최소 1,000걸음(steps-01 500걸음 삭제, 무료 자리는 steps-03 2,000걸음), 7개 언어 문구에서 시간과 횟수 숫자를 빼고 행동만 남김(햇빛 5분 쬐기 -> 햇빛 보기 등 62개 항목, 걸음 수는 유지). 숫자를 빼면 겹치는 food-17 물 세 컵(food-01 물 마시기와 같음)과 move-15 음악 한 곡 동안 몸 흔들기(joy-12 노래에 맞춰 춤추기와 같음)를 빼서 147개. 원격 목록(morning-mess-content)은 아직 옛 문구. 같은 날 지원님 \"응 둘 다 해 올려\" 로 겹치는 묶음은 1~2개만 남기고, 바르기 4개는 2개로, 너무 사소한 것(우편함, 영수증, 좋아하는 컵, 불 켜기, 양말)과 잠, 알람 축(mind-22, evening-01)을 빼서 26개 삭제, 121개. 무료에서 빠진 home-11 자리는 home-12. food-14, body-13 ko, move-23 en, es, joy-02 es 문구 고침.",
+  "_aboutFree": "무료 퀘스트 = free:true 20개, 카테고리(몸, 바깥, 정리, 마음)마다 5개, 바깥에 걸음 2개(첫 판 걸음 퀘스트용). 지원님 2026-11-21 \"퀘스트 다 열어줄기말고 20개정도만 열어줄거야\" (이전 2026-10-28 50개). 2026-11-21 겹침 정리로 home-11 삭제, 정리 무료 자리는 home-12(바닥에 떨어진 옷 줍기).",
   "status": "draft",
   "categories": {
     "body": {
@@ -59,26 +60,16 @@
   },
   "missions": [
     {
-      "id": "body-01",
-      "category": "body",
-      "ko": "바디로션 바르기",
-      "en": "Put on body lotion",
-      "ja": "ボディローションを塗る",
-      "zhHant": "擦身體乳液",
-      "effort": 1,
-      "place": "home",
-      "check": "self"
-    },
-    {
       "id": "body-02",
       "category": "body",
-      "ko": "썬크림 바르기",
+      "ko": "선크림 바르기",
       "en": "Put on sunscreen",
       "ja": "日焼け止めを塗る",
       "zhHant": "擦防曬乳",
       "effort": 1,
       "place": "home",
-      "check": "self"
+      "check": "self",
+      "free": true
     },
     {
       "id": "body-03",
@@ -92,17 +83,6 @@
       "check": "self"
     },
     {
-      "id": "body-04",
-      "category": "body",
-      "ko": "립밤 바르기",
-      "en": "Put on lip balm",
-      "ja": "リップクリームを塗る",
-      "zhHant": "擦護唇膏",
-      "effort": 1,
-      "place": "any",
-      "check": "self"
-    },
-    {
       "id": "body-05",
       "category": "body",
       "ko": "세수하기",
@@ -111,7 +91,8 @@
       "zhHant": "洗臉",
       "effort": 1,
       "place": "home",
-      "check": "self"
+      "check": "self",
+      "free": true
     },
     {
       "id": "body-06",
@@ -122,7 +103,8 @@
       "zhHant": "刷牙",
       "effort": 1,
       "place": "home",
-      "check": "self"
+      "check": "self",
+      "free": true
     },
     {
       "id": "body-07",
@@ -193,7 +175,7 @@
     {
       "id": "body-13",
       "category": "body",
-      "ko": "머리 말리기",
+      "ko": "머리 잘 말리기",
       "en": "Dry your hair properly",
       "ja": "髪をしっかり乾かす",
       "zhHant": "把頭髮吹乾",
@@ -224,34 +206,12 @@
       "check": "self"
     },
     {
-      "id": "body-16",
-      "category": "body",
-      "ko": "편한 옷으로 갈아입기",
-      "en": "Change into comfy clothes",
-      "ja": "楽な服に着替える",
-      "zhHant": "換上舒服的衣服",
-      "effort": 1,
-      "place": "home",
-      "check": "self"
-    },
-    {
       "id": "body-17",
       "category": "body",
-      "ko": "잠옷에서 외출복으로 갈아입기",
+      "ko": "잠옷에서 평상복으로 갈아입기",
       "en": "Change out of your pajamas",
       "ja": "パジャマから着替える",
       "zhHant": "把睡衣換掉",
-      "effort": 1,
-      "place": "home",
-      "check": "self"
-    },
-    {
-      "id": "body-18",
-      "category": "body",
-      "ko": "양말 새 걸로 신기",
-      "en": "Put on a fresh pair of socks",
-      "ja": "新しい靴下をはく",
-      "zhHant": "換雙乾淨的襪子",
       "effort": 1,
       "place": "home",
       "check": "self"
@@ -270,10 +230,10 @@
     {
       "id": "body-20",
       "category": "body",
-      "ko": "어깨 으쓱 열 번",
-      "en": "Shrug your shoulders ten times",
-      "ja": "肩を10回すくめる",
-      "zhHant": "聳肩十下",
+      "ko": "어깨 으쓱하기",
+      "en": "Shrug your shoulders",
+      "ja": "肩を上げ下げする",
+      "zhHant": "聳聳肩",
       "effort": 1,
       "place": "any",
       "check": "self"
@@ -282,7 +242,7 @@
       "id": "body-21",
       "category": "body",
       "ko": "기지개 크게 켜기",
-      "en": "Do one big stretch",
+      "en": "Have a good stretch",
       "ja": "大きく伸びをする",
       "zhHant": "大大伸個懶腰",
       "effort": 1,
@@ -314,10 +274,10 @@
     {
       "id": "body-25",
       "category": "body",
-      "ko": "먼 곳 1분 바라보기",
-      "en": "Look at something far away for a minute",
-      "ja": "1分間遠くを見る",
-      "zhHant": "看遠方 1 分鐘",
+      "ko": "먼 곳 바라보기",
+      "en": "Look at something far away",
+      "ja": "遠くを見る",
+      "zhHant": "看看遠方",
       "effort": 1,
       "place": "any",
       "check": "self"
@@ -325,10 +285,10 @@
     {
       "id": "body-26",
       "category": "body",
-      "ko": "크게 숨 다섯 번 쉬기",
-      "en": "Take five slow breaths",
-      "ja": "ゆっくり5回息をする",
-      "zhHant": "慢慢深呼吸五次",
+      "ko": "천천히 깊게 숨 쉬기",
+      "en": "Take slow, deep breaths",
+      "ja": "ゆっくり深呼吸する",
+      "zhHant": "慢慢深呼吸",
       "effort": 1,
       "place": "any",
       "check": "self"
@@ -337,9 +297,9 @@
       "id": "body-27",
       "category": "body",
       "ko": "등 펴고 앉기",
-      "en": "Sit up straight for a minute",
-      "ja": "背すじを伸ばして1分座る",
-      "zhHant": "挺直背坐 1 分鐘",
+      "en": "Sit up straight",
+      "ja": "背すじを伸ばして座る",
+      "zhHant": "挺直背坐好",
       "effort": 1,
       "place": "any",
       "check": "self"
@@ -367,6 +327,28 @@
       "check": "self"
     },
     {
+      "id": "body-33",
+      "category": "body",
+      "ko": "어제와 같은 시각에 일어나기",
+      "en": "Get up at the same time as yesterday",
+      "ja": "昨日と同じ時間に起きる",
+      "zhHant": "跟昨天同一時間起床",
+      "effort": 1,
+      "place": "home",
+      "check": "self"
+    },
+    {
+      "id": "body-35",
+      "category": "body",
+      "ko": "일어나서 침대 끝에 걸터앉기",
+      "en": "Sit up on the edge of your bed",
+      "ja": "起きてベッドの端に腰かける",
+      "zhHant": "醒來後坐到床邊",
+      "effort": 1,
+      "place": "home",
+      "check": "self"
+    },
+    {
       "id": "home-01",
       "category": "home",
       "ko": "이불 개기",
@@ -375,7 +357,8 @@
       "zhHant": "整理床鋪",
       "effort": 1,
       "place": "home",
-      "check": "self"
+      "check": "self",
+      "free": true
     },
     {
       "id": "home-03",
@@ -397,7 +380,8 @@
       "zhHant": "開窗通風",
       "effort": 1,
       "place": "home",
-      "check": "self"
+      "check": "self",
+      "free": true
     },
     {
       "id": "home-05",
@@ -408,7 +392,8 @@
       "zhHant": "拉開窗簾",
       "effort": 1,
       "place": "home",
-      "check": "self"
+      "check": "self",
+      "free": true
     },
     {
       "id": "home-07",
@@ -424,10 +409,10 @@
     {
       "id": "home-08",
       "category": "home",
-      "ko": "쓰레기 한 봉지 버리기",
-      "en": "Take out one bag of trash",
-      "ja": "ゴミをひと袋出す",
-      "zhHant": "倒一袋垃圾",
+      "ko": "쓰레기 내다 버리기",
+      "en": "Take out the trash",
+      "ja": "ゴミを出す",
+      "zhHant": "把垃圾拿出去丟",
       "effort": 2,
       "place": "home",
       "check": "self"
@@ -452,18 +437,8 @@
       "zhHant": "整理書桌",
       "effort": 1,
       "place": "home",
-      "check": "self"
-    },
-    {
-      "id": "home-11",
-      "category": "home",
-      "ko": "책상 닦기",
-      "en": "Wipe your desk",
-      "ja": "机を拭く",
-      "zhHant": "擦桌子",
-      "effort": 1,
-      "place": "home",
-      "check": "self"
+      "check": "self",
+      "free": true
     },
     {
       "id": "home-12",
@@ -474,7 +449,8 @@
       "zhHant": "撿起地上的衣服",
       "effort": 1,
       "place": "home",
-      "check": "self"
+      "check": "self",
+      "free": true
     },
     {
       "id": "home-13",
@@ -513,9 +489,9 @@
       "id": "home-16",
       "category": "home",
       "ko": "냉장고 유통기한 지난 거 버리기",
-      "en": "Toss one expired thing from the fridge",
-      "ja": "冷蔵庫の期限切れを1つ捨てる",
-      "zhHant": "丟掉冰箱裡一樣過期的東西",
+      "en": "Toss expired food from the fridge",
+      "ja": "冷蔵庫の期限切れを捨てる",
+      "zhHant": "丟掉冰箱裡過期的東西",
       "effort": 1,
       "place": "home",
       "check": "self"
@@ -524,7 +500,7 @@
       "id": "home-18",
       "category": "home",
       "ko": "거울 닦기",
-      "en": "Clean a mirror",
+      "en": "Clean the mirror",
       "ja": "鏡を拭く",
       "zhHant": "擦鏡子",
       "effort": 1,
@@ -535,7 +511,7 @@
       "id": "home-19",
       "category": "home",
       "ko": "화분에 물 주기",
-      "en": "Water a plant",
+      "en": "Water your plants",
       "ja": "植物に水をやる",
       "zhHant": "幫植物澆水",
       "effort": 1,
@@ -549,17 +525,6 @@
       "en": "Line up your shoes",
       "ja": "靴をそろえる",
       "zhHant": "把鞋子排整齊",
-      "effort": 1,
-      "place": "home",
-      "check": "self"
-    },
-    {
-      "id": "home-21",
-      "category": "home",
-      "ko": "가방 속 영수증 버리기",
-      "en": "Clear old receipts from your bag",
-      "ja": "バッグの古いレシートを捨てる",
-      "zhHant": "清掉包包裡的舊發票",
       "effort": 1,
       "place": "home",
       "check": "self"
@@ -580,19 +545,8 @@
       "category": "home",
       "ko": "수건 새 걸로 걸기",
       "en": "Hang up a fresh towel",
-      "ja": "新しいタオルをかける",
+      "ja": "きれいなタオルに替える",
       "zhHant": "掛上乾淨的毛巾",
-      "effort": 1,
-      "place": "home",
-      "check": "self"
-    },
-    {
-      "id": "home-26",
-      "category": "home",
-      "ko": "휴지통 비우기",
-      "en": "Empty a wastebasket",
-      "ja": "ゴミ箱を空にする",
-      "zhHant": "清空垃圾桶",
       "effort": 1,
       "place": "home",
       "check": "self"
@@ -633,32 +587,22 @@
     {
       "id": "outside-01",
       "category": "outside",
-      "ko": "햇빛 5분 쬐기",
-      "en": "Get 5 minutes of sunlight",
-      "ja": "5分日光を浴びる",
-      "zhHant": "曬 5 分鐘太陽",
+      "ko": "햇빛 보기",
+      "en": "Get some sunlight",
+      "ja": "日光を浴びる",
+      "zhHant": "曬曬太陽",
       "effort": 1,
       "place": "out",
-      "check": "self"
-    },
-    {
-      "id": "outside-03",
-      "category": "outside",
-      "ko": "베란다나 창가에서 하늘 보기",
-      "en": "Look at the sky from a window",
-      "ja": "窓から空を見る",
-      "zhHant": "從窗邊看看天空",
-      "effort": 1,
-      "place": "home",
-      "check": "self"
+      "check": "self",
+      "free": true
     },
     {
       "id": "outside-04",
       "category": "outside",
-      "ko": "동네 한 바퀴 걷기",
-      "en": "Walk once around the block",
-      "ja": "近所をひと回り歩く",
-      "zhHant": "繞附近走一圈",
+      "ko": "동네 산책하기",
+      "en": "Take a walk around the neighborhood",
+      "ja": "近所を散歩する",
+      "zhHant": "在附近散散步",
       "effort": 2,
       "place": "out",
       "check": "self"
@@ -668,7 +612,7 @@
       "category": "outside",
       "ko": "편의점까지 다녀오기",
       "en": "Walk to the nearest store and back",
-      "ja": "近くのお店まで歩いて行く",
+      "ja": "近くのお店まで歩いて往復する",
       "zhHant": "走到最近的超商再回來",
       "effort": 2,
       "place": "out",
@@ -688,21 +632,10 @@
     {
       "id": "outside-08",
       "category": "outside",
-      "ko": "하늘 사진 한 장 찍기",
-      "en": "Take one photo of the sky",
-      "ja": "空の写真を1枚撮る",
-      "zhHant": "拍一張天空的照片",
-      "effort": 1,
-      "place": "out",
-      "check": "self"
-    },
-    {
-      "id": "outside-10",
-      "category": "outside",
-      "ko": "우편함 확인하기",
-      "en": "Check the mailbox",
-      "ja": "郵便受けを見る",
-      "zhHant": "看看信箱",
+      "ko": "하늘 사진 찍기",
+      "en": "Take a photo of the sky",
+      "ja": "空の写真を撮る",
+      "zhHant": "拍張天空的照片",
       "effort": 1,
       "place": "out",
       "check": "self"
@@ -721,10 +654,10 @@
     {
       "id": "outside-19",
       "category": "outside",
-      "ko": "버스 한 정거장 걸어가기",
-      "en": "Walk one bus stop instead of riding",
-      "ja": "バスに乗らず1駅分歩く",
-      "zhHant": "少搭一站公車用走的",
+      "ko": "가까운 곳은 걸어가기",
+      "en": "Walk somewhere nearby instead of driving",
+      "ja": "近い所は歩いて行く",
+      "zhHant": "近的地方用走的",
       "effort": 2,
       "place": "out",
       "check": "self"
@@ -741,34 +674,35 @@
       "check": "self"
     },
     {
-      "id": "outside-23",
+      "id": "outside-30",
       "category": "outside",
-      "ko": "공원 한 바퀴 걷기",
-      "en": "Walk one lap around a park",
-      "ja": "公園をひと回り歩く",
-      "zhHant": "繞公園走一圈",
-      "effort": 2,
+      "ko": "해 드는 쪽 길로 걷기",
+      "en": "Walk on the sunny side of the street",
+      "ja": "日の当たる側の道を歩く",
+      "zhHant": "走在馬路有陽光的那一側",
+      "effort": 1,
       "place": "out",
       "check": "self"
     },
     {
       "id": "food-01",
       "category": "food",
-      "ko": "물 한 컵 마시기",
-      "en": "Drink a glass of water",
-      "ja": "水を一杯飲む",
-      "zhHant": "喝一杯水",
+      "ko": "물 마시기",
+      "en": "Drink some water",
+      "ja": "水を飲む",
+      "zhHant": "喝點水",
       "effort": 1,
       "place": "any",
-      "check": "self"
+      "check": "self",
+      "free": true
     },
     {
       "id": "food-02",
       "category": "food",
-      "ko": "따뜻한 차 한 잔 마시기",
-      "en": "Have a cup of warm tea",
-      "ja": "温かいお茶を一杯飲む",
-      "zhHant": "喝一杯熱茶",
+      "ko": "따뜻한 차 마시기",
+      "en": "Have some warm tea",
+      "ja": "温かいお茶を飲む",
+      "zhHant": "喝點熱茶",
       "effort": 1,
       "place": "home",
       "check": "self"
@@ -782,7 +716,8 @@
       "zhHant": "吃早餐",
       "effort": 1,
       "place": "home",
-      "check": "self"
+      "check": "self",
+      "free": true
     },
     {
       "id": "food-05",
@@ -807,23 +742,12 @@
       "check": "self"
     },
     {
-      "id": "food-07",
-      "category": "food",
-      "ko": "물병 채워두기",
-      "en": "Fill up a water bottle",
-      "ja": "水筒に水を入れておく",
-      "zhHant": "把水壺裝滿",
-      "effort": 1,
-      "place": "home",
-      "check": "self"
-    },
-    {
       "id": "food-09",
       "category": "food",
-      "ko": "계란 하나 삶기",
-      "en": "Boil an egg",
-      "ja": "卵を1つゆでる",
-      "zhHant": "煮一顆蛋",
+      "ko": "달걀 삶기",
+      "en": "Boil some eggs",
+      "ja": "卵をゆでる",
+      "zhHant": "煮雞蛋",
       "effort": 1,
       "place": "home",
       "check": "self"
@@ -842,10 +766,10 @@
     {
       "id": "food-11",
       "category": "food",
-      "ko": "장보기 목록 세 개 적기",
-      "en": "Write three things on a grocery list",
-      "ja": "買い物リストに3つ書く",
-      "zhHant": "在購物清單寫三樣東西",
+      "ko": "장보기 목록 적기",
+      "en": "Write a grocery list",
+      "ja": "買い物リストを書く",
+      "zhHant": "寫購物清單",
       "effort": 1,
       "place": "any",
       "check": "self"
@@ -875,7 +799,7 @@
     {
       "id": "food-14",
       "category": "food",
-      "ko": "밥 먹고 그릇 바로 싱크대에",
+      "ko": "밥 먹고 그릇 바로 싱크대에 두기",
       "en": "Put your bowl in the sink right after eating",
       "ja": "食べたらすぐ器をシンクへ",
       "zhHant": "吃完馬上把碗放進水槽",
@@ -886,54 +810,21 @@
     {
       "id": "food-15",
       "category": "food",
-      "ko": "새로운 과일 하나 사보기",
-      "en": "Buy a fruit you have not tried in a while",
-      "ja": "久しぶりの果物を1つ買ってみる",
-      "zhHant": "買一種好久沒吃的水果",
+      "ko": "오랜만에 먹는 과일 사 보기",
+      "en": "Buy a fruit you haven't had in a while",
+      "ja": "久しぶりの果物を買ってみる",
+      "zhHant": "買好久沒吃的水果",
       "effort": 2,
       "place": "out",
       "check": "self"
     },
     {
-      "id": "food-16",
-      "category": "food",
-      "ko": "점심 제때 먹기",
-      "en": "Eat lunch on time",
-      "ja": "お昼をきちんと食べる",
-      "zhHant": "準時吃午餐",
-      "effort": 1,
-      "place": "any",
-      "check": "self"
-    },
-    {
-      "id": "food-17",
-      "category": "food",
-      "ko": "물 세 컵 마시기",
-      "en": "Drink three glasses of water",
-      "ja": "水を3杯飲む",
-      "zhHant": "喝三杯水",
-      "effort": 2,
-      "place": "any",
-      "check": "self"
-    },
-    {
       "id": "food-18",
       "category": "food",
-      "ko": "요거트나 우유 한 컵",
-      "en": "Have a yogurt or a glass of milk",
-      "ja": "ヨーグルトか牛乳を一杯",
-      "zhHant": "來一杯優格或牛奶",
-      "effort": 1,
-      "place": "any",
-      "check": "self"
-    },
-    {
-      "id": "food-19",
-      "category": "food",
-      "ko": "주스 대신 물 마시기",
-      "en": "Pick water over a sugary drink once",
-      "ja": "甘い飲み物の代わりに一度は水を選ぶ",
-      "zhHant": "挑一次水，不喝含糖飲料",
+      "ko": "요거트나 우유 먹기",
+      "en": "Have yogurt or milk",
+      "ja": "ヨーグルトか牛乳をとる",
+      "zhHant": "吃優格或喝牛奶",
       "effort": 1,
       "place": "any",
       "check": "self"
@@ -943,7 +834,7 @@
       "category": "food",
       "ko": "과자 대신 과일 먹기",
       "en": "Have fruit instead of chips",
-      "ja": "お菓子の代わりに果物を食べる",
+      "ja": "スナック菓子の代わりに果物を食べる",
       "zhHant": "不吃零食，改吃水果",
       "effort": 1,
       "place": "home",
@@ -952,43 +843,46 @@
     {
       "id": "mind-01",
       "category": "mind",
-      "ko": "오늘 한 일 하나 적기",
-      "en": "Write down one thing you did today",
-      "ja": "今日やったことを1つ書く",
-      "zhHant": "寫下今天做的一件事",
+      "ko": "오늘 한 일 적기",
+      "en": "Write down what you did today",
+      "ja": "今日やったことを書く",
+      "zhHant": "寫下今天做的事",
       "effort": 1,
       "place": "any",
-      "check": "self"
+      "check": "self",
+      "free": true
     },
     {
       "id": "mind-02",
       "category": "mind",
-      "ko": "좋았던 것 하나 적기",
-      "en": "Write down one good thing",
-      "ja": "よかったことを1つ書く",
-      "zhHant": "寫下一件好事",
+      "ko": "좋았던 일 적기",
+      "en": "Write down something good",
+      "ja": "よかったことを書く",
+      "zhHant": "寫下美好的事",
       "effort": 1,
       "place": "any",
-      "check": "self"
+      "check": "self",
+      "free": true
     },
     {
       "id": "mind-03",
       "category": "mind",
-      "ko": "할 일 딱 세 개만 적기",
-      "en": "Write just three to-dos",
-      "ja": "やることを3つだけ書く",
-      "zhHant": "只寫三件待辦事項",
+      "ko": "오늘 꼭 할 일만 적기",
+      "en": "Write down only today's must-dos",
+      "ja": "今日やるべきことだけ書く",
+      "zhHant": "只寫今天一定要做的事",
       "effort": 1,
       "place": "any",
-      "check": "self"
+      "check": "self",
+      "free": true
     },
     {
       "id": "mind-04",
       "category": "mind",
-      "ko": "걱정 하나 종이에 적고 접기",
-      "en": "Write one worry on paper and fold it away",
-      "ja": "心配ごとを1つ紙に書いてたたむ",
-      "zhHant": "把一件煩惱寫在紙上摺起來",
+      "ko": "걱정을 종이에 적고 접기",
+      "en": "Write a worry on paper and fold it away",
+      "ja": "心配ごとを紙に書いてたたむ",
+      "zhHant": "把煩惱寫在紙上摺起來",
       "effort": 1,
       "place": "any",
       "check": "self"
@@ -996,13 +890,14 @@
     {
       "id": "mind-05",
       "category": "mind",
-      "ko": "지금 기분을 한 단어로 적기",
-      "en": "Name your mood in one word",
-      "ja": "今の気分をひと言で書く",
-      "zhHant": "用一個詞寫下現在的心情",
+      "ko": "지금 기분 적기",
+      "en": "Write down how you feel",
+      "ja": "今の気分を書く",
+      "zhHant": "寫下現在的心情",
       "effort": 1,
       "place": "any",
-      "check": "self"
+      "check": "self",
+      "free": true
     },
     {
       "id": "mind-06",
@@ -1018,10 +913,10 @@
     {
       "id": "mind-07",
       "category": "mind",
-      "ko": "알람 하나 정리하기",
-      "en": "Clean up one old alarm",
-      "ja": "古いアラームを1つ消す",
-      "zhHant": "刪掉一個舊鬧鐘",
+      "ko": "안 쓰는 알람 지우기",
+      "en": "Delete alarms you don't use",
+      "ja": "使っていないアラームを消す",
+      "zhHant": "刪掉沒在用的鬧鐘",
       "effort": 1,
       "place": "any",
       "check": "self"
@@ -1029,10 +924,10 @@
     {
       "id": "mind-08",
       "category": "mind",
-      "ko": "휴대폰 사진 열 장 지우기",
-      "en": "Delete ten photos from your phone",
-      "ja": "スマホの写真を10枚消す",
-      "zhHant": "刪掉手機裡 10 張照片",
+      "ko": "휴대폰 사진 정리하기",
+      "en": "Clean up your phone photos",
+      "ja": "スマホの写真を整理する",
+      "zhHant": "整理手機照片",
       "effort": 1,
       "place": "any",
       "check": "self"
@@ -1040,10 +935,10 @@
     {
       "id": "mind-09",
       "category": "mind",
-      "ko": "안 읽는 메일 다섯 개 지우기",
-      "en": "Delete five unread emails",
-      "ja": "未読メールを5通消す",
-      "zhHant": "刪掉五封未讀信件",
+      "ko": "안 읽은 메일 정리하기",
+      "en": "Clear out unread emails",
+      "ja": "未読メールを整理する",
+      "zhHant": "整理未讀信件",
       "effort": 1,
       "place": "any",
       "check": "self"
@@ -1051,10 +946,10 @@
     {
       "id": "mind-10",
       "category": "mind",
-      "ko": "앱 알림 하나 끄기",
-      "en": "Turn off one app notification",
-      "ja": "アプリの通知を1つオフにする",
-      "zhHant": "關掉一個 App 通知",
+      "ko": "필요 없는 앱 알림 끄기",
+      "en": "Turn off app notifications you don't need",
+      "ja": "いらないアプリ通知をオフにする",
+      "zhHant": "關掉不需要的 App 通知",
       "effort": 1,
       "place": "any",
       "check": "self"
@@ -1071,23 +966,12 @@
       "check": "self"
     },
     {
-      "id": "mind-12",
-      "category": "mind",
-      "ko": "5분 타이머 맞추고 한 가지만 하기",
-      "en": "Set a 5 minute timer and do one thing",
-      "ja": "5分タイマーで1つだけやる",
-      "zhHant": "設 5 分鐘計時器只做一件事",
-      "effort": 1,
-      "place": "any",
-      "check": "self"
-    },
-    {
       "id": "mind-13",
       "category": "mind",
-      "ko": "가만히 앉아 1분 아무것도 안 하기",
-      "en": "Sit and do nothing for one minute",
-      "ja": "1分間ただ座ってぼーっとする",
-      "zhHant": "靜靜坐著發呆 1 分鐘",
+      "ko": "가만히 앉아 아무것도 안 하기",
+      "en": "Sit still and do nothing",
+      "ja": "ただ座ってぼーっとする",
+      "zhHant": "靜靜坐著發呆",
       "effort": 1,
       "place": "any",
       "check": "self"
@@ -1096,20 +980,9 @@
       "id": "mind-16",
       "category": "mind",
       "ko": "오늘 고마운 사람 떠올리기",
-      "en": "Think of one person you are thankful for",
-      "ja": "感謝したい人を1人思い浮かべる",
-      "zhHant": "想想一個你想感謝的人",
-      "effort": 1,
-      "place": "any",
-      "check": "self"
-    },
-    {
-      "id": "mind-18",
-      "category": "mind",
-      "ko": "달력에 내일 할 일 하나 적기",
-      "en": "Put one plan for tomorrow on the calendar",
-      "ja": "明日の予定を1つカレンダーに入れる",
-      "zhHant": "在行事曆寫一件明天的事",
+      "en": "Think of someone you're thankful for",
+      "ja": "感謝したい人を思い浮かべる",
+      "zhHant": "想想你想感謝的人",
       "effort": 1,
       "place": "any",
       "check": "self"
@@ -1117,10 +990,10 @@
     {
       "id": "mind-19",
       "category": "mind",
-      "ko": "책 한 페이지 읽기",
-      "en": "Read one page of a book",
-      "ja": "本を1ページ読む",
-      "zhHant": "讀一頁書",
+      "ko": "책 읽기",
+      "en": "Read a bit of a book",
+      "ja": "本を読む",
+      "zhHant": "看點書",
       "effort": 1,
       "place": "any",
       "check": "self"
@@ -1128,10 +1001,10 @@
     {
       "id": "mind-20",
       "category": "mind",
-      "ko": "짧은 시 하나 읽기",
-      "en": "Read one short poem",
-      "ja": "短い詩を1つ読む",
-      "zhHant": "讀一首短詩",
+      "ko": "짧은 시 읽기",
+      "en": "Read a short poem",
+      "ja": "短い詩を読む",
+      "zhHant": "讀首短詩",
       "effort": 1,
       "place": "any",
       "check": "self"
@@ -1139,32 +1012,21 @@
     {
       "id": "mind-21",
       "category": "mind",
-      "ko": "휴대폰 10분 내려놓기",
-      "en": "Put your phone down for 10 minutes",
-      "ja": "10分スマホを置く",
-      "zhHant": "放下手機 10 分鐘",
+      "ko": "휴대폰 잠시 내려놓기",
+      "en": "Put your phone down for a while",
+      "ja": "しばらくスマホを置く",
+      "zhHant": "放下手機一會兒",
       "effort": 2,
       "place": "any",
       "check": "self"
     },
     {
-      "id": "mind-22",
-      "category": "mind",
-      "ko": "잠들기 전 화면 끄고 10분",
-      "en": "Screens off for 10 minutes before bed",
-      "ja": "寝る前の10分は画面を消す",
-      "zhHant": "睡前 10 分鐘不看螢幕",
-      "effort": 2,
-      "place": "home",
-      "check": "self"
-    },
-    {
       "id": "mind-23",
       "category": "mind",
-      "ko": "미뤄둔 일 2분만 하기",
-      "en": "Spend two minutes on something you put off",
-      "ja": "後回しのことを2分だけやる",
-      "zhHant": "花兩分鐘做一件拖著的事",
+      "ko": "미뤄둔 일 조금만 하기",
+      "en": "Do a little of something you put off",
+      "ja": "後回しのことを少しだけやる",
+      "zhHant": "拖著的事做一點點",
       "effort": 1,
       "place": "any",
       "check": "self"
@@ -1181,15 +1043,38 @@
       "check": "self"
     },
     {
-      "id": "joy-01",
-      "category": "joy",
-      "ko": "좋아하는 노래 한 곡 듣기",
-      "en": "Listen to one song you love",
-      "ja": "大好きな曲を1曲聴く",
-      "zhHant": "聽一首喜歡的歌",
+      "id": "mind-25",
+      "category": "mind",
+      "ko": "오늘 안 해도 되는 일 지우기",
+      "en": "Cross off what you don't have to do today",
+      "ja": "今日やらなくていいことを消す",
+      "zhHant": "刪掉今天不做也可以的事",
       "effort": 1,
       "place": "any",
       "check": "self"
+    },
+    {
+      "id": "mind-26",
+      "category": "mind",
+      "ko": "친구처럼 나에게 다정한 말 하기",
+      "en": "Talk to yourself like a good friend",
+      "ja": "友だちのように自分にやさしく話す",
+      "zhHant": "像對朋友一樣對自己說句好話",
+      "effort": 1,
+      "place": "any",
+      "check": "self"
+    },
+    {
+      "id": "joy-01",
+      "category": "joy",
+      "ko": "좋아하는 노래 듣기",
+      "en": "Listen to a song you love",
+      "ja": "好きな曲を聴く",
+      "zhHant": "聽喜歡的歌",
+      "effort": 1,
+      "place": "any",
+      "check": "self",
+      "free": true
     },
     {
       "id": "joy-02",
@@ -1203,23 +1088,12 @@
       "check": "self"
     },
     {
-      "id": "joy-03",
-      "category": "joy",
-      "ko": "창가에서 음악 듣기",
-      "en": "Listen to music by the window",
-      "ja": "窓辺で音楽を聴く",
-      "zhHant": "在窗邊聽音樂",
-      "effort": 1,
-      "place": "home",
-      "check": "self"
-    },
-    {
       "id": "joy-04",
       "category": "joy",
-      "ko": "웃긴 영상 하나 보기",
-      "en": "Watch one funny video",
-      "ja": "おもしろい動画を1本見る",
-      "zhHant": "看一支好笑的影片",
+      "ko": "웃긴 영상 보기",
+      "en": "Watch a funny video",
+      "ja": "おもしろい動画を見る",
+      "zhHant": "看好笑的影片",
       "effort": 1,
       "place": "any",
       "check": "self"
@@ -1230,7 +1104,7 @@
       "ko": "좋아하는 사진 다시 보기",
       "en": "Look back at a photo you love",
       "ja": "好きな写真を見返す",
-      "zhHant": "回頭看一張喜歡的照片",
+      "zhHant": "再看看喜歡的照片",
       "effort": 1,
       "place": "any",
       "check": "self"
@@ -1238,9 +1112,9 @@
     {
       "id": "joy-06",
       "category": "joy",
-      "ko": "낙서 하나 그리기",
+      "ko": "낙서하기",
       "en": "Doodle something",
-      "ja": "落書きを1つ描く",
+      "ja": "落書きをする",
       "zhHant": "隨手塗鴉一下",
       "effort": 1,
       "place": "any",
@@ -1249,32 +1123,21 @@
     {
       "id": "joy-07",
       "category": "joy",
-      "ko": "색칠 5분 하기",
-      "en": "Color for five minutes",
-      "ja": "5分間ぬり絵をする",
-      "zhHant": "著色 5 分鐘",
+      "ko": "색칠하기",
+      "en": "Do some coloring",
+      "ja": "ぬり絵をする",
+      "zhHant": "塗塗顏色",
       "effort": 1,
       "place": "any",
       "check": "self"
     },
     {
-      "id": "joy-11",
-      "category": "joy",
-      "ko": "좋아하는 컵에 음료 마시기",
-      "en": "Drink from your favorite cup",
-      "ja": "お気に入りのカップで飲む",
-      "zhHant": "用最愛的杯子喝點東西",
-      "effort": 1,
-      "place": "home",
-      "check": "self"
-    },
-    {
       "id": "joy-12",
       "category": "joy",
-      "ko": "잠깐 춤추기",
-      "en": "Dance for one song",
-      "ja": "1曲ぶん踊る",
-      "zhHant": "跟著一首歌跳舞",
+      "ko": "노래에 맞춰 춤추기",
+      "en": "Dance to a song",
+      "ja": "曲に合わせて踊る",
+      "zhHant": "跟著歌跳舞",
       "effort": 1,
       "place": "home",
       "check": "self"
@@ -1282,10 +1145,10 @@
     {
       "id": "joy-13",
       "category": "joy",
-      "ko": "퍼즐이나 스도쿠 한 판",
-      "en": "Do one puzzle or sudoku",
-      "ja": "パズルか数独を1回",
-      "zhHant": "玩一次拼圖或數獨",
+      "ko": "퍼즐이나 스도쿠 하기",
+      "en": "Do a puzzle or sudoku",
+      "ja": "パズルか数独をする",
+      "zhHant": "玩拼圖或數獨",
       "effort": 1,
       "place": "any",
       "check": "self"
@@ -1293,10 +1156,10 @@
     {
       "id": "joy-15",
       "category": "joy",
-      "ko": "방에 좋아하는 물건 하나 꺼내두기",
-      "en": "Put one favorite thing where you can see it",
-      "ja": "好きなものを1つ見える所に置く",
-      "zhHant": "把一樣喜歡的東西放在看得到的地方",
+      "ko": "좋아하는 물건 보이는 곳에 두기",
+      "en": "Put something you love where you can see it",
+      "ja": "好きなものを見える所に置く",
+      "zhHant": "把喜歡的東西放在看得到的地方",
       "effort": 1,
       "place": "home",
       "check": "self"
@@ -1304,13 +1167,14 @@
     {
       "id": "move-02",
       "category": "move",
-      "ko": "집 안 한 바퀴 돌기",
-      "en": "Walk one lap around your home",
-      "ja": "家の中をひと回り歩く",
-      "zhHant": "在家裡走一圈",
+      "ko": "집 안 걸어 다니기",
+      "en": "Walk around your home",
+      "ja": "家の中を歩き回る",
+      "zhHant": "在家裡走走",
       "effort": 1,
       "place": "home",
-      "check": "self"
+      "check": "self",
+      "free": true
     },
     {
       "id": "move-04",
@@ -1321,7 +1185,8 @@
       "zhHant": "扶著牆伸展小腿",
       "effort": 1,
       "place": "home",
-      "check": "self"
+      "check": "self",
+      "free": true
     },
     {
       "id": "move-05",
@@ -1348,10 +1213,10 @@
     {
       "id": "move-07",
       "category": "move",
-      "ko": "앉았다 일어나기 다섯 번",
-      "en": "Stand up from a chair five times",
-      "ja": "椅子から5回立ち上がる",
-      "zhHant": "從椅子上站起來五次",
+      "ko": "의자에서 앉았다 일어나기",
+      "en": "Stand up from a chair and sit back down",
+      "ja": "椅子から立ったり座ったりする",
+      "zhHant": "從椅子上站起來再坐下",
       "effort": 1,
       "place": "any",
       "check": "self"
@@ -1368,23 +1233,12 @@
       "check": "self"
     },
     {
-      "id": "move-10",
-      "category": "move",
-      "ko": "요가 영상 5분 따라하기",
-      "en": "Follow a 5 minute yoga video",
-      "ja": "5分のヨガ動画をまねする",
-      "zhHant": "跟著 5 分鐘瑜伽影片做",
-      "effort": 2,
-      "place": "home",
-      "check": "self"
-    },
-    {
       "id": "move-11",
       "category": "move",
-      "ko": "스트레칭 영상 하나 따라하기",
-      "en": "Follow one stretching video",
-      "ja": "ストレッチ動画を1本まねする",
-      "zhHant": "跟著一支伸展影片做",
+      "ko": "스트레칭 영상 따라 하기",
+      "en": "Follow a stretching video",
+      "ja": "ストレッチ動画をまねする",
+      "zhHant": "跟著伸展影片做",
       "effort": 2,
       "place": "home",
       "check": "self"
@@ -1401,34 +1255,12 @@
       "check": "self"
     },
     {
-      "id": "move-15",
-      "category": "move",
-      "ko": "음악 한 곡 동안 몸 흔들기",
-      "en": "Move around for one song",
-      "ja": "1曲のあいだ体を揺らす",
-      "zhHant": "跟著一首歌動動身體",
-      "effort": 1,
-      "place": "home",
-      "check": "self"
-    },
-    {
-      "id": "move-20",
-      "category": "move",
-      "ko": "제자리 걷기 3분",
-      "en": "March in place for 3 minutes",
-      "ja": "その場で3分足踏み",
-      "zhHant": "原地踏步3分鐘",
-      "effort": 1,
-      "place": "any",
-      "check": "self"
-    },
-    {
       "id": "move-21",
       "category": "move",
-      "ko": "누워서 엉덩이 들기 열 번",
-      "en": "Do 10 glute bridges",
-      "ja": "寝たままお尻上げ10回",
-      "zhHant": "躺著抬臀十下",
+      "ko": "누워서 엉덩이 들기",
+      "en": "Do glute bridges",
+      "ja": "寝たままお尻を上げる",
+      "zhHant": "躺著抬臀",
       "effort": 1,
       "place": "home",
       "check": "self"
@@ -1437,22 +1269,11 @@
       "id": "move-23",
       "category": "move",
       "ko": "앞으로 숙여 다리 뒤 늘리기",
-      "en": "Fold forward and stretch the backs of your legs",
-      "ja": "前屈して脚の裏を伸ばす",
+      "en": "Bend forward to stretch your legs",
+      "ja": "前屈して脚の裏側を伸ばす",
       "zhHant": "向前彎腰伸展腿後側",
       "effort": 1,
       "place": "any",
-      "check": "self"
-    },
-    {
-      "id": "evening-01",
-      "category": "evening",
-      "ko": "내일 알람 맞추기",
-      "en": "Set your alarm for tomorrow",
-      "ja": "明日のアラームをセットする",
-      "zhHant": "設好明天的鬧鐘",
-      "effort": 1,
-      "place": "home",
       "check": "self"
     },
     {
@@ -1462,17 +1283,6 @@
       "en": "Put your phone on the charger",
       "ja": "スマホを充電器につなぐ",
       "zhHant": "把手機插上充電器",
-      "effort": 1,
-      "place": "home",
-      "check": "self"
-    },
-    {
-      "id": "evening-03",
-      "category": "evening",
-      "ko": "잠옷 갈아입기",
-      "en": "Change into pajamas",
-      "ja": "パジャマに着替える",
-      "zhHant": "換上睡衣",
       "effort": 1,
       "place": "home",
       "check": "self"
@@ -1491,7 +1301,7 @@
     {
       "id": "evening-05",
       "category": "evening",
-      "ko": "따뜻한 물로 발 담그기",
+      "ko": "따뜻한 물에 발 담그기",
       "en": "Soak your feet in warm water",
       "ja": "お湯に足をつける",
       "zhHant": "用溫水泡腳",
@@ -1522,29 +1332,6 @@
       "check": "self"
     },
     {
-      "id": "evening-08",
-      "category": "evening",
-      "ko": "오늘 잘한 일 하나 말하기",
-      "en": "Say one thing you did well today",
-      "ja": "今日うまくできたことを1つ言う",
-      "zhHant": "說一件今天做得好的事",
-      "effort": 1,
-      "place": "any",
-      "check": "self"
-    },
-    {
-      "id": "steps-01",
-      "category": "steps",
-      "ko": "오늘 500걸음",
-      "en": "Walk 500 steps today",
-      "ja": "今日は500歩あるく",
-      "zhHant": "今天走 500 步",
-      "effort": 1,
-      "place": "any",
-      "check": "steps",
-      "steps": 500
-    },
-    {
       "id": "steps-02",
       "category": "steps",
       "ko": "오늘 1,000걸음",
@@ -1554,7 +1341,8 @@
       "effort": 1,
       "place": "any",
       "check": "steps",
-      "steps": 1000
+      "steps": 1000,
+      "free": true
     },
     {
       "id": "steps-03",
@@ -1566,7 +1354,8 @@
       "effort": 2,
       "place": "any",
       "check": "steps",
-      "steps": 2000
+      "steps": 2000,
+      "free": true
     },
     {
       "id": "steps-04",
